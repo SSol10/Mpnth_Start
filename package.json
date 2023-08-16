@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SSol10/Mpnth_Start/issues"
   },
-  "homepage": "https://github.com/SSol10/Mpnth_Start#readme"
+  "homepage": "https://github.com/SSol10/Mpnth_Start#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
